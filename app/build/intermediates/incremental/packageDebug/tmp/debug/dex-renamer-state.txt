@@ -1,0 +1,7 @@
+#Thu Jun 16 11:01:21 CST 2022
+base.1=F\:\\NeuSoft\\Android\\ending\\Lab2UI\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex
+path.1=classes.dex
+base.0=F\:\\NeuSoft\\Android\\ending\\Lab2UI\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex

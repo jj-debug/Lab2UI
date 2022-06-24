@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Wir wissen</string>
+	<string name="login_account">Bitte geben Sie den Benutzernamen ein</string>
+	<string name="login_paw">Bitte geben Sie das Passwort ein</string>
+	<string name="login_btn">Einloggen</string>
+	<string name="login_reg_btn">registrieren</string>
+	<string name="reg_account">Bitte geben Sie die Kontonummer ein (mindestens 6 Zeichen)</string>
+	<string name="reg_paw">Bitte geben Sie das Passwort ein</string>
+	<string name="reg_repaw">Bitte geben Sie das Passwort erneut ein</string>
+	<string name="reg_sex_tv">Bitte wähle ein Geschlecht:</string>
+	<string name="reg_sex_man">männlich</string>
+	<string name="reg_sex_woman">Weiblich</string>
+	<string name="reg_city_tv">Bitte wählen Sie die Stadt:</string>
+	<string name="reg_birth_tv">Bitte wählen Sie Ihren Geburtstag aus:</string>
+	<string name="reg_register">registrieren</string>
+	<string name="reg_cancel">Absagen</string>
+	<string name="reg_check_box">ich habe gelesen</string>
+	<string name="main_bottom_msg">Wechat</string>
+	<string name="main_bottom_contact">Adressbuch</string>
+	<string name="main_bottom_find">Finden</string>
+	<string name="main_bottom_mine">ich</string>
+	<string name="message_input_hint">Bitte geben Sie die Informationen ein</string>
+	<string name="message_send">schicken</string>
+</resources>

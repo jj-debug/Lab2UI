@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Tá a fhios againn</string>
+	<string name="login_account">Cuir ainm úsáideora isteach le do thoil</string>
+	<string name="login_paw">Iontráil an focal faire le do thoil</string>
+	<string name="login_btn">Logáil isteach</string>
+	<string name="login_reg_btn">cláraigh</string>
+	<string name="reg_account">Iontráil uimhir an chuntais (6 charachtar ar a laghad)</string>
+	<string name="reg_paw">Iontráil an focal faire le do thoil</string>
+	<string name="reg_repaw">Iontráil an focal faire arís le do thoil</string>
+	<string name="reg_sex_tv">Roghnaigh inscne le do thoil:</string>
+	<string name="reg_sex_man">fireann</string>
+	<string name="reg_sex_woman">Bean</string>
+	<string name="reg_city_tv">Roghnaigh an chathair le do thoil:</string>
+	<string name="reg_birth_tv">Roghnaigh do bhreithlá le do thoil:</string>
+	<string name="reg_register">cláraigh</string>
+	<string name="reg_cancel">Cealaigh</string>
+	<string name="reg_check_box">Léigh mé</string>
+	<string name="main_bottom_msg">WeChat</string>
+	<string name="main_bottom_contact">Leabhar seoltaí</string>
+	<string name="main_bottom_find">Aimsigh</string>
+	<string name="main_bottom_mine">I</string>
+	<string name="message_input_hint">Iontráil an fhaisnéis le do thoil</string>
+	<string name="message_send">cuir</string>
+</resources>

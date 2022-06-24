@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Nous savons</string>
+	<string name="login_account">Veuillez saisir le nom dutilisateur</string>
+	<string name="login_paw">Sil vous plaît entrer le mot de passe</string>
+	<string name="login_btn">Connexion</string>
+	<string name="login_reg_btn">Sinscrire</string>
+	<string name="reg_account">Veuillez saisir le numéro de compte (au moins 6 caractères)</string>
+	<string name="reg_paw">Sil vous plaît entrer le mot de passe</string>
+	<string name="reg_repaw">Veuillez saisir à nouveau le mot de passe</string>
+	<string name="reg_sex_tv">Veuillez sélectionner le sexe:</string>
+	<string name="reg_sex_man">Masculin</string>
+	<string name="reg_sex_woman">Femelle</string>
+	<string name="reg_city_tv">Veuillez choisir la ville:</string>
+	<string name="reg_birth_tv">Veuillez sélectionner votre anniversaire:</string>
+	<string name="reg_register">Sinscrire</string>
+	<string name="reg_cancel">Annuler</string>
+	<string name="reg_check_box">Jai lu</string>
+	<string name="main_bottom_msg">Wechat</string>
+	<string name="main_bottom_contact">Carnet dadresses</string>
+	<string name="main_bottom_find">Trouver</string>
+	<string name="main_bottom_mine">je</string>
+	<string name="message_input_hint">Veuillez saisir les informations</string>
+	<string name="message_send">envoyer</string>
+</resources>

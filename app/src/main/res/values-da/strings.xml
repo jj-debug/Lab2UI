@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Vi ved</string>
+	<string name="login_account">Indtast venligst brugernavn</string>
+	<string name="login_paw">Indtast adgangskoden</string>
+	<string name="login_btn">Log på</string>
+	<string name="login_reg_btn">Tilmeld</string>
+	<string name="reg_account">Indtast kontonummeret (mindst 6 tegn)</string>
+	<string name="reg_paw">Indtast adgangskoden</string>
+	<string name="reg_repaw">Indtast adgangskoden igen</string>
+	<string name="reg_sex_tv">Vælg køn:</string>
+	<string name="reg_sex_man">han-</string>
+	<string name="reg_sex_woman">Kvinde</string>
+	<string name="reg_city_tv">Vælg byen:</string>
+	<string name="reg_birth_tv">Vælg din fødselsdag:</string>
+	<string name="reg_register">Tilmeld</string>
+	<string name="reg_cancel">Afbestille</string>
+	<string name="reg_check_box">Jeg har læst</string>
+	<string name="main_bottom_msg">WeChat</string>
+	<string name="main_bottom_contact">Adressebog</string>
+	<string name="main_bottom_find">Find</string>
+	<string name="main_bottom_mine">jeg</string>
+	<string name="message_input_hint">Indtast oplysningerne</string>
+	<string name="message_send">sende</string>
+</resources>

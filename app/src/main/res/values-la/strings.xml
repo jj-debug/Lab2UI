@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Scimus</string>
+	<string name="login_account">Placere initus username</string>
+	<string name="login_paw">PDF PDF</string>
+	<string name="login_btn">Log in</string>
+	<string name="login_reg_btn">subcriptio</string>
+	<string name="reg_account">Please enter propter numerum (certe VI characters)</string>
+	<string name="reg_paw">PDF PDF</string>
+	<string name="reg_repaw">PDF Password iterum</string>
+	<string name="reg_sex_tv">Placere eligere Gender:</string>
+	<string name="reg_sex_man">masculum</string>
+	<string name="reg_sex_woman">Femina</string>
+	<string name="reg_city_tv">Placere eligere in civitatem:</string>
+	<string name="reg_birth_tv">Placere eligere natalis:</string>
+	<string name="reg_register">subcriptio</string>
+	<string name="reg_cancel">Inrito</string>
+	<string name="reg_check_box">i Legi</string>
+	<string name="main_bottom_msg">Weckat</string>
+	<string name="main_bottom_contact">Inscriptio libro</string>
+	<string name="main_bottom_find">Reperio</string>
+	<string name="main_bottom_mine">ego</string>
+	<string name="message_input_hint">PDF notitia</string>
+	<string name="message_send">mitto</string>
+</resources>

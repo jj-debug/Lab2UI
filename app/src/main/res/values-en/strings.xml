@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">WeKnow</string>
+	<string name="login_account">  Please input Username</string>
+	<string name="login_paw">Please enter the password</string>
+	<string name="login_btn">Log in</string>
+	<string name="login_reg_btn">register</string>
+	<string name="reg_account">Please enter the account number (at least 6 characters)</string>
+	<string name="reg_paw">Please enter the password</string>
+	<string name="reg_repaw">Please enter the password again</string>
+	<string name="reg_sex_tv">Please select gender:</string>
+	<string name="reg_sex_man">male</string>
+	<string name="reg_sex_woman">Female</string>
+	<string name="reg_city_tv">Please choose the city:</string>
+	<string name="reg_birth_tv">Please select your birthday:</string>
+	<string name="reg_register">register</string>
+	<string name="reg_cancel">Cancel</string>
+	<string name="reg_check_box">I have read</string>
+	<string name="main_bottom_msg">WeChat</string>
+	<string name="main_bottom_contact">Address book</string>
+	<string name="main_bottom_find">Find</string>
+	<string name="main_bottom_mine">I</string>
+	<string name="message_input_hint">Please enter the information</string>
+	<string name="message_send">send</string>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Ons weet</string>
+	<string name="login_account">Voer asseblief gebruikersnaam in</string>
+	<string name="login_paw">Voer asseblief die wagwoord in</string>
+	<string name="login_btn">Teken aan</string>
+	<string name="login_reg_btn">register</string>
+	<string name="reg_account">Voer die rekeningnommer in (ten minste 6 karakters)</string>
+	<string name="reg_paw">Voer asseblief die wagwoord in</string>
+	<string name="reg_repaw">Voer die wagwoord weer in</string>
+	<string name="reg_sex_tv">Kies Geslag:</string>
+	<string name="reg_sex_man">manlik</string>
+	<string name="reg_sex_woman">Vroulik</string>
+	<string name="reg_city_tv">Kies die stad:</string>
+	<string name="reg_birth_tv">Kies u verjaardag:</string>
+	<string name="reg_register">register</string>
+	<string name="reg_cancel">Kanselleer</string>
+	<string name="reg_check_box">Ek het gelees</string>
+	<string name="main_bottom_msg">Wechat</string>
+	<string name="main_bottom_contact">Adres boek</string>
+	<string name="main_bottom_find">Vind</string>
+	<string name="main_bottom_mine">Ek</string>
+	<string name="message_input_hint">Voer asseblief die inligting in</string>
+	<string name="message_send">stuur</string>
+</resources>

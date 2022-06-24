@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">私たちは知っています</string>
+	<string name="login_account">ユーザー名を入力してください</string>
+	<string name="login_paw">パスワードを入力してください</string>
+	<string name="login_btn">ログイン</string>
+	<string name="login_reg_btn">登録</string>
+	<string name="reg_account">アカウント番号（少なくとも6文字）を入力してください</string>
+	<string name="reg_paw">パスワードを入力してください</string>
+	<string name="reg_repaw">もう一度パスワードを入力してください</string>
+	<string name="reg_sex_tv">性別を選択してください：</string>
+	<string name="reg_sex_man">男</string>
+	<string name="reg_sex_woman">女性</string>
+	<string name="reg_city_tv">街を選んでください：</string>
+	<string name="reg_birth_tv">誕生日を選択してください：</string>
+	<string name="reg_register">登録</string>
+	<string name="reg_cancel">キャンセル</string>
+	<string name="reg_check_box">読みました</string>
+	<string name="main_bottom_msg">wechat</string>
+	<string name="main_bottom_contact">住所録</string>
+	<string name="main_bottom_find">探す</string>
+	<string name="main_bottom_mine">私</string>
+	<string name="message_input_hint">情報を入力してください</string>
+	<string name="message_send">送信</string>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Nós sabemos</string>
+	<string name="login_account">Insira o nome de usuário</string>
+	<string name="login_paw">Por favor insira a senha</string>
+	<string name="login_btn">Conecte-se</string>
+	<string name="login_reg_btn">registro</string>
+	<string name="reg_account">Por favor, insira o número da conta (pelo menos 6 caracteres)</string>
+	<string name="reg_paw">Por favor insira a senha</string>
+	<string name="reg_repaw">Por favor, digite a senha novamente</string>
+	<string name="reg_sex_tv">Por favor selecione um gênero:</string>
+	<string name="reg_sex_man">macho</string>
+	<string name="reg_sex_woman">Fêmea</string>
+	<string name="reg_city_tv">Escolha a cidade:</string>
+	<string name="reg_birth_tv">Selecione seu aniversário:</string>
+	<string name="reg_register">registro</string>
+	<string name="reg_cancel">Cancelar</string>
+	<string name="reg_check_box">eu li</string>
+	<string name="main_bottom_msg">WeChat</string>
+	<string name="main_bottom_contact">Livro de endereços</string>
+	<string name="main_bottom_find">Encontrar</string>
+	<string name="main_bottom_mine">EU</string>
+	<string name="message_input_hint">Por favor, insira a informação</string>
+	<string name="message_send">mandar</string>
+</resources>

@@ -1,0 +1,85 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.byron.lab2ui"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="22"
+8-->F:\NeuSoft\Android\ending\Lab2UI\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->F:\NeuSoft\Android\ending\Lab2UI\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.CALL_PHONE" />
+11-->F:\NeuSoft\Android\ending\Lab2UI\app\src\main\AndroidManifest.xml:5:5-69
+11-->F:\NeuSoft\Android\ending\Lab2UI\app\src\main\AndroidManifest.xml:5:22-66
+12    <uses-permission android:name="android.permission.READ_CONTACTS" />
+12-->F:\NeuSoft\Android\ending\Lab2UI\app\src\main\AndroidManifest.xml:6:5-72
+12-->F:\NeuSoft\Android\ending\Lab2UI\app\src\main\AndroidManifest.xml:6:22-69
+13    <uses-permission android:name="android.permission.INTERNET" />
+13-->F:\NeuSoft\Android\ending\Lab2UI\app\src\main\AndroidManifest.xml:7:5-83
+13-->F:\NeuSoft\Android\ending\Lab2UI\app\src\main\AndroidManifest.xml:7:22-64
+14
+15    <application
+15-->F:\NeuSoft\Android\ending\Lab2UI\app\src\main\AndroidManifest.xml:8:5-39:19
+16        android:name="com.byron.lab2ui.MainApplication"
+16-->F:\NeuSoft\Android\ending\Lab2UI\app\src\main\AndroidManifest.xml:9:9-40
+17        android:allowBackup="true"
+17-->F:\NeuSoft\Android\ending\Lab2UI\app\src\main\AndroidManifest.xml:10:9-35
+18        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+18-->[androidx.core:core:1.0.2] C:\Users\ES'C\.gradle\caches\transforms-2\files-2.1\2f90dd987449d7317ab38ae691bde367\core-1.0.2\AndroidManifest.xml:22:18-86
+19        android:debuggable="true"
+20        android:icon="@mipmap/ic_launcher"
+20-->F:\NeuSoft\Android\ending\Lab2UI\app\src\main\AndroidManifest.xml:11:9-43
+21        android:label="Wechat"
+21-->F:\NeuSoft\Android\ending\Lab2UI\app\src\main\AndroidManifest.xml:12:9-31
+22        android:roundIcon="@mipmap/ic_launcher_round"
+22-->F:\NeuSoft\Android\ending\Lab2UI\app\src\main\AndroidManifest.xml:13:9-54
+23        android:supportsRtl="true"
+23-->F:\NeuSoft\Android\ending\Lab2UI\app\src\main\AndroidManifest.xml:14:9-35
+24        android:testOnly="true"
+25        android:theme="@style/AppTheme" >
+25-->F:\NeuSoft\Android\ending\Lab2UI\app\src\main\AndroidManifest.xml:15:9-40
+26        <activity
+26-->F:\NeuSoft\Android\ending\Lab2UI\app\src\main\AndroidManifest.xml:16:9-18:39
+27            android:name="com.byron.lab2ui.activity.TianqiActivity"
+27-->F:\NeuSoft\Android\ending\Lab2UI\app\src\main\AndroidManifest.xml:17:13-52
+28            android:exported="true" />
+28-->F:\NeuSoft\Android\ending\Lab2UI\app\src\main\AndroidManifest.xml:18:13-36
+29        <activity android:name="com.byron.lab2ui.activity.MessageActivity" />
+29-->F:\NeuSoft\Android\ending\Lab2UI\app\src\main\AndroidManifest.xml:19:9-62
+29-->F:\NeuSoft\Android\ending\Lab2UI\app\src\main\AndroidManifest.xml:19:19-59
+30        <activity android:name="com.byron.lab2ui.activity.RegisterActivity" />
+30-->F:\NeuSoft\Android\ending\Lab2UI\app\src\main\AndroidManifest.xml:20:9-63
+30-->F:\NeuSoft\Android\ending\Lab2UI\app\src\main\AndroidManifest.xml:20:19-60
+31        <activity
+31-->F:\NeuSoft\Android\ending\Lab2UI\app\src\main\AndroidManifest.xml:21:9-29:20
+32            android:name="com.byron.lab2ui.activity.LoginActivity"
+32-->F:\NeuSoft\Android\ending\Lab2UI\app\src\main\AndroidManifest.xml:22:13-51
+33            android:exported="true" >
+33-->F:\NeuSoft\Android\ending\Lab2UI\app\src\main\AndroidManifest.xml:23:13-36
+34            <intent-filter>
+34-->F:\NeuSoft\Android\ending\Lab2UI\app\src\main\AndroidManifest.xml:24:13-28:29
+35                <action android:name="android.intent.action.MAIN" />
+35-->F:\NeuSoft\Android\ending\Lab2UI\app\src\main\AndroidManifest.xml:25:17-69
+35-->F:\NeuSoft\Android\ending\Lab2UI\app\src\main\AndroidManifest.xml:25:25-66
+36
+37                <category android:name="android.intent.category.LAUNCHER" />
+37-->F:\NeuSoft\Android\ending\Lab2UI\app\src\main\AndroidManifest.xml:27:17-77
+37-->F:\NeuSoft\Android\ending\Lab2UI\app\src\main\AndroidManifest.xml:27:27-74
+38            </intent-filter>
+39        </activity>
+40        <activity android:name="com.byron.lab2ui.activity.MainActivity" >
+40-->F:\NeuSoft\Android\ending\Lab2UI\app\src\main\AndroidManifest.xml:30:9-38:20
+40-->F:\NeuSoft\Android\ending\Lab2UI\app\src\main\AndroidManifest.xml:30:19-56
+41
+42            <!-- <intent-filter> -->
+43            <!-- <action android:name="android.intent.action.MAIN" /> -->
+44
+45
+46            <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
+47            <!-- </intent-filter> -->
+48        </activity>
+49    </application>
+50
+51</manifest>
